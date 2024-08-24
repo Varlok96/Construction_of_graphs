@@ -8,7 +8,7 @@ part_1_d:
 
 
 part_2:
-	python3 shortest_path.py -v --from 'Erdős number - Wikipedia' --to 'Alphabet - Wikipedia'
+	python3 shortest_path.py -v --from 'Erdős number - Wikipedia' --to 'Wikipedia:Reliable sources - Wikipedia'
 
 
 part_3:
